@@ -7,7 +7,7 @@ double f(double x){
 
 int main() {
     double a = 1;
-    double b = 1;
+    double b = 0;
     int n = 100000;  
     double h = 0;  				        
     h = (b-a)/n;
