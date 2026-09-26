@@ -6,7 +6,7 @@ double f(double x){
 }
 
 int main() {
-    double a = 0;
+    double a = 1;
     double b = 1;
     int n = 100000;  
     double h = 0;  				        
