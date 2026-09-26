@@ -3,5 +3,5 @@
 #include <stdlib.h>
 #include <omp.h>
 
-#define NITEMS 20
+#define NITEMS 5000
 
